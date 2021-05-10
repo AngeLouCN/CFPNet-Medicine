@@ -49,4 +49,4 @@ main.py
 
 ## Speed and FLOPs
 The code of test speed and FLOPs are in ```main.py```, you can run them after training.
-<div align=center><img src="https://github.com/AngeLouCN/CFPNet-Medicine/blob/main/results/seg_table_1.png" width="700" height="600" alt="Result_table"/></div>
+<div align=center><img src="https://github.com/AngeLouCN/CFPNet-Medicine/blob/main/results/speed.png" width="700" height="600" alt="Result_table"/></div>
