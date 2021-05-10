@@ -35,7 +35,8 @@ from network.ENet import ENet
 from network.ESPNet import ESPNet
 from network.MultiResUNet import MultiResUnet
 from network.UNet import UNet
-
+from keras.models import load_model
+import segmentation_models as sm
 # prepare training and testing set
 X = []
 Y = []
