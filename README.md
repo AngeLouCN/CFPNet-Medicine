@@ -45,4 +45,4 @@ main.py
 ## Segmentation Results of Five datasets
 
 <div align=center><img src="https://github.com/AngeLouCN/CFPNet-Medicine/blob/main/results/seg_table_1.png" width="700" height="600" alt="Result_table"/></div>
-<div align=center><img src="https://github.com/AngeLouCN/CFPNet-Medicine/blob/main/results/seg_table_2.png" width="700" height="600" alt="Result_table"/></div>
+<div align=center><img src="https://github.com/AngeLouCN/CFPNet-Medicine/blob/main/results/seg_table_2.png" width="600" height="600" alt="Result_table"/></div>
