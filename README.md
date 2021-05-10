@@ -8,4 +8,4 @@ This repository contains the implementation of a novel light-weight real-time ne
 
 ## Architecture of CFPNet-M
 CFP module
-<div align=center><img src="https://github.com/AngeLouCN/CFPNet-Medicine/blob/main/results/cfp module.png" width="500" height="500" alt="Result"/></div>
+<div align=center><img src="https://github.com/AngeLouCN/CFPNet-Medicine/blob/main/results/cfp module.png" width="500" height="200" alt="Result"/></div>
