@@ -7,7 +7,37 @@
 This repository contains the implementation of a novel light-weight real-time network (CFPNet-Medicine: CFPNet-M) to segment different types of biomedical images. It is a medical version of CFPNet, and the dataset we used from top to bottom are DRIVE, ISBI-2012, Infrared Breast, CVC-ClinicDB and ISIC 2018. The details of CFPNet-M and CFPNet can be found here respectively.
 
 ## Architecture of CFPNet-M
-CFP module
+### CFP module
 <div align=center><img src="https://github.com/AngeLouCN/CFPNet-Medicine/blob/main/results/cfp module.png" width="750" height="300" alt="Result"/></div>
-CFPNet-M
+### CFPNet-M
 <div align=center><img src="https://github.com/AngeLouCN/CFPNet-Medicine/blob/main/results/fig 3.jpg" width="400" height="400" alt="Result"/></div>
+
+## Dataset
+
+In this project, we test five datasets:
+
+- [x] Infrared Breast Dataset
+- [x] Endoscopy (CVC-ClinicDB)
+- [x] Electron Microscopy (ISBI-2012)
+- [x] Drive (Digital Retinal Image)
+- [x] Dermoscopy (ISIC-2018)
+
+## Usage
+
+### Prerequisities
+
+The following dependencies are needed:
+
+- Kearas == 2.2.4
+- Opencv == 3.3.1
+- Tensorflow == 1.10.0
+- Matplotlib == 3.1.3
+- Numpy == 1.19.1
+
+### training
+
+You can download the datasets you want to try, and just run: for UNet, DC-UNet, MultiResUNet, ICNet, CFPNet-M, ESPNet and ENet, the code is in the folder ```network```
+
+```
+main.py
+```
