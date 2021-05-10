@@ -4,4 +4,4 @@
 <div align=center><img src="https://github.com/AngeLouCN/CFPNet-Medicine/blob/main/results/Infrared Breast.jpg" width="500" height="125" alt="Result"/></div>
 <div align=center><img src="https://github.com/AngeLouCN/CFPNet-Medicine/blob/main/results/Cvc-ClinicDB.jpg" width="500" height="150" alt="Result"/></div>
 <div align=center><img src="https://github.com/AngeLouCN/CFPNet-Medicine/blob/main/results/ISIC2018.jpg" width="500" height="150" alt="Result"/></div>
-This repository contains the implementation of a novel light-weight real-time network (CFPNet-Medicine: CFPNet-M) to segment different types of biomedical images. It is a medical version of CFPNet [code](https://github.com/AngeLouCN/CFPNet/) [paper](https://arxiv.org/abs/2103.12212/)
+This repository contains the implementation of a novel light-weight real-time network (CFPNet-Medicine: CFPNet-M) to segment different types of biomedical images. It is a medical version of CFPNet [code](https://github.com/AngeLouCN/CFPNet/) [paper](https://arxiv.org/abs/2103.12212/) [code](https://github.com/AngeLouCN/CFPNet/)
