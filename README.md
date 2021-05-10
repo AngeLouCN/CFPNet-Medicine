@@ -36,8 +36,12 @@ The following dependencies are needed:
 
 ### training
 
-You can download the datasets you want to try, and just run: for UNet, DC-UNet, MultiResUNet, ICNet, CFPNet-M, ESPNet and ENet, the code is in the folder ```network```
+You can download the datasets you want to try, and just run: for UNet, DC-UNet, MultiResUNet, ICNet, CFPNet-M, ESPNet and ENet, the code is in the folder ```network```. For Efficient-b0, MobileNet-v2 and Inception-v3, the code is in the ```main.py```. Choose the segmentation model you want to test and run:
 
 ```
 main.py
 ```
+
+## Segmentation Results of Five datasets
+
+<div align=center><img src="https://github.com/AngeLouCN/DC-UNet/blob/main/results/table.PNG" width="773" height="607" alt="Result_table"/></div>
