@@ -7,7 +7,8 @@
 This repository contains the implementation of a novel light-weight real-time network (CFPNet-Medicine: CFPNet-M) to segment different types of biomedical images. It is a medical version of CFPNet, and the dataset we used from top to bottom are DRIVE, ISBI-2012, Infrared Breast, CVC-ClinicDB and ISIC 2018. The details of CFPNet-M and CFPNet can be found here respectively.  
 
 [CFPNet-M](https://arxiv.org/ftp/arxiv/papers/2105/2105.04075.pdf),
-[CFPNet Paper](https://arxiv.org/ftp/arxiv/papers/2103/2103.12212.pdf) and
+[CFPNet Paper](https://arxiv.org/ftp/arxiv/papers/2103/2103.12212.pdf),
+[DC-UNet](https://github.com/AngeLouCN/DC-UNet) and
 [CFPNet Code](https://github.com/AngeLouCN/CFPNet)
 
 ## Architecture of CFPNet-M
