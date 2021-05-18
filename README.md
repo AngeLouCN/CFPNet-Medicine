@@ -59,5 +59,11 @@ The code of test speed and FLOPs are in ```main.py```, you can run them after tr
 
 ## Citation
 ```
-
+@article{lou2021cfpnet,
+  title={CFPNet-M: A Light-Weight Encoder-Decoder Based Network for Multimodal Biomedical Image Real-Time Segmentation},
+  author={Lou, Ange and Guan, Shuyue and Loew, Murray},
+  journal={arXiv preprint arXiv:2105.04075},
+  year={2021}
+}
 ```
+
