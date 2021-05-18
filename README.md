@@ -65,5 +65,14 @@ The code of test speed and FLOPs are in ```main.py```, you can run them after tr
   journal={arXiv preprint arXiv:2105.04075},
   year={2021}
 }
+
+@article{lou2021cfpnet,
+  title={CFPNet: Channel-wise Feature Pyramid for Real-Time Semantic Segmentation},
+  author={Lou, Ange and Loew, Murray},
+  journal={arXiv preprint arXiv:2103.12212},
+  year={2021}
+}
+
+
 ```
 
