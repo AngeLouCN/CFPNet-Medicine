@@ -54,7 +54,7 @@ main.py
 <div align=center><img src="https://github.com/AngeLouCN/CFPNet-Medicine/blob/main/results/seg_table_2.png" width="675" height="600" alt="Result_table"/></div>
 
 ## Speed and FLOPs
-The code of test speed and FLOPs are in ```main.py```, you can run them after training.
+The code of calculate FLOPs are in ```main.py```, you can run them after training.
 <div align=center><img src="https://github.com/AngeLouCN/CFPNet-Medicine/blob/main/results/speed.png" width="700" height="200" alt="Result_table"/></div>
 
 ## Citation
