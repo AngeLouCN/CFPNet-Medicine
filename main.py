@@ -222,19 +222,6 @@ trainStep(model, X_train, Y_train, X_test, Y_test, epochs=1, batchSize=4)
 #     cv2.imwrite(path_result+'img_'+str(i+1)+'.png',X_test[i]*255) #show predict results
 #     cv2.imwrite(path_result+'org_'+str(i+1)+'.png',Y_test[i]*255) # show the label
 
-####################### speed test
-# print('=========Speed Testing=========')
-# start = time.time()
-# y_result = model.predict(x=X_train, batch_size=1, verbose=1)
-# end = time.time()
-
-# spend_time = end-start
-
-# speed_time = spend_time/489 * 1000
-# fps = 489/spend_time
-# print('Spend Time: [%.2f s / %d iter]' % (spend_time, 489))
-# print('Speed Time: %.2f ms / iter   FPS: %.2f' % (speed_time, fps))
-
 ######################### FLOPs 
 # def get_flops(model):
 #     run_meta = tf.RunMetadata()
