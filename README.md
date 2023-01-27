@@ -59,18 +59,22 @@ The code of calculate FLOPs are in ```main.py```, you can run them after trainin
 
 ## Citation
 ```
-@article{lou2021cfpnet,
-  title={CFPNet-M: A Light-Weight Encoder-Decoder Based Network for Multimodal Biomedical Image Real-Time Segmentation},
+@article{lou2023cfpnet,
+  title={Cfpnet-m: A light-weight encoder-decoder based network for multimodal biomedical image real-time segmentation},
   author={Lou, Ange and Guan, Shuyue and Loew, Murray},
-  journal={arXiv preprint arXiv:2105.04075},
-  year={2021}
+  journal={Computers in Biology and Medicine},
+  pages={106579},
+  year={2023},
+  publisher={Elsevier}
 }
 
-@article{lou2021cfpnet,
-  title={CFPNet: Channel-wise Feature Pyramid for Real-Time Semantic Segmentation},
+@inproceedings{lou2021cfpnet,
+  title={Cfpnet: channel-wise feature pyramid for real-time semantic segmentation},
   author={Lou, Ange and Loew, Murray},
-  journal={arXiv preprint arXiv:2103.12212},
-  year={2021}
+  booktitle={2021 IEEE International Conference on Image Processing (ICIP)},
+  pages={1894--1898},
+  year={2021},
+  organization={IEEE}
 }
 
 @inproceedings{lou2021dc,
